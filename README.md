@@ -555,4 +555,4 @@ Contributions are welcome! Please read the contributing guidelines and submit pu
 
 ## Contact
 
-For questions or issues, please open an issue on the project repository or contact the maintainers through b11901067@ntu.edu.tw.
+For questions or issues, please open an issue on the project repository or contact the maintainers through kaipnob@gmail.com.
